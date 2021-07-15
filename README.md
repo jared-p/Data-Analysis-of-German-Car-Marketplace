@@ -2,7 +2,7 @@
 
 ## Milestones
 
-Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
+The milestones of the project represent the deliverables throughout the COSC301 term. Additionally the milestones reflect the content of the Jupyter Notebooks in the analysis directory.
 
 ### Milestone 1
 This milestone invloves choosing a data set for the prohect, then loading the data set into a Jupyer Notebook file.
