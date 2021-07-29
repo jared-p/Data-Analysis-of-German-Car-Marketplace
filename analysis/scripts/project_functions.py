@@ -15,5 +15,9 @@ def load_and_process(path):
         .assign(transmission = lambda x : x.gear)
         .drop("gear", axis = "columns")
         .reindex(columns = ["mileage", "make", "model", "fuel", "transmission", "offerType", "price", "hp", "year"])
+        .pipe(lambda x: x.drop(x.loc[lambda row : row["fuel"] == "-/- (Fuel)"].index))
+        .reset_index(drop = "true")
+        .pipe(lambda x: x.drop(x.loc[lambda row : row["fuel"] == "Others"].index))
+        .reset_index(drop = "true")
     )
     return df
