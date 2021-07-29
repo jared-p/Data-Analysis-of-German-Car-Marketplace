@@ -14,6 +14,6 @@ def load_and_process(path):
         .reset_index(drop = "true")
         .assign(transmission = lambda x : x.gear)
         .drop("gear", axis = "columns")
-        .reindex(columns = ["mileage", "fuel", "model", "fuel", "transmission", "offerType", "price", "hp", "year"])
+        .reindex(columns = ["mileage", "make", "model", "fuel", "transmission", "offerType", "price", "hp", "year"])
     )
     return df
