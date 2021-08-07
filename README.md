@@ -2,7 +2,7 @@
 
 ## Milestones
 
-The milestones of the project represent the deliverables throughout the COSC301 term. Additionally the milestones reflect the content of the Jupyter Notebooks in the analysis directory.
+The milestones of the project represent the deliverables throughout the COSC301 term. For the purpose of submission, all work for milestone 1-3 will be merged into a single Jupyter Notebook in the analysis directory.
 
 ### Milestone 1
 This milestone invloves choosing a data set for the prohect, then loading the data set into a Jupyer Notebook file.
@@ -11,10 +11,11 @@ This milestone invloves choosing a data set for the prohect, then loading the da
 This milestone invloves cleaning the raw data set, then performing exploratory data analysis (EDA), then crease some data visualizations, and working with method chaning in Pandas. 
 
 ### Milestone 3
-This milestone is a continuation of the previous milestone. In addition, the data will be processed for the dashboard.
+This milestone is a continuation of the previous milestone; focusing on feedback provided by TA's. In addition, the data will be processed for the dashboard.
 
 ### Milestone 4
-Final submission of the project, followed by a presentation to the class.
+
+Final submission of the project, paired with a Tableau dashboard.
 
 ## Topic of Interest: Vehicle Marketplace
 
@@ -22,11 +23,12 @@ The automobile marketplace is a complex space, vehicles are intricate and contai
 
 ## Dataset Description
 
-The data is provided by Kaggle user Ander, accessible through: https://www.kaggle.com/ander289386/cars-germany. The data is automatically scraped from popular German car marketplace AutoScout24. The data set reflects all cars listed on the website that were for sale in the German marketplace from 2011 through 2021. Each tuple of the data tells the car make, model, milage, fuel type, transmission, condition, price, horsepower, and year. The data set was originally collected to illustrate Ander's website data scraping software Zenrows.com, thus the data set is a faux advertisement.
+The data is provided by Kaggle user Ander, accessible through: [this link](https://www.kaggle.com/ander289386/cars-germany). The data is automatically scraped from popular German car marketplace AutoScout24. The data set reflects all cars listed on the website that were for sale in the German marketplace from 2011 through 2021. Each tuple of the data tells the car make, model, milage, fuel type, transmission, condition, price, horsepower, and year. The data set was originally collected to illustrate Ander's website data scraping software Zenrows.com, thus the data set is a faux advertisement.
 
 ## Jared Paull
 
 I am an electrical engineering student, I have the slightest passion about vehicles. I am looking forward to learning about important vehicle price factors.
+
 ## References
 
-References to come ...
+Dataset: https://www.kaggle.com/ander289386/cars-germany

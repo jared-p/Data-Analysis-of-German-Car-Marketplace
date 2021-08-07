@@ -1,2 +1,2 @@
 # Data
-This directory contains the data that will be analyzed in the project. Split up into raw and processed.
+This directory contains the data that will be analyzed in the project. Split up into raw and processed. Raw data is that obtained from Kaggle, will processed data will be generated in the analysis portion.
