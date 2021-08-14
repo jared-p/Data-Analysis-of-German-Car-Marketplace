@@ -15,7 +15,7 @@ This milestone is a continuation of the previous milestone; focusing on feedback
 
 ### Milestone 4
 
-Final submission of the project, paired with a Tableau dashboard.
+Final submission of the project, paired with a Tableau dashboard. 
 
 ## Topic of Interest: Vehicle Marketplace
 
